@@ -1,3 +1,4 @@
 # extractor
-Unzip Files
-This script extract zip/.rar files. Auto detect rar files. If any file is found sect file and extract it
+Unzip Archive Files / Extract files
+This script extract zip/.rar files. Auto detect rar files.
+If any file is found select the file and click extract
